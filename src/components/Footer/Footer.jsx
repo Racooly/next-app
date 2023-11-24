@@ -7,6 +7,7 @@ function Footer() {
     <div className={styles.container}> 
         <div>@all right reserved</div>
         <div className={styles.socialNetworks}>
+          {/*Hello */}
           <Image src='/1.png' width={15} className={styles.icon} height={15} alt='Facebook'/>
           <Image src='/2.png' width={15} className={styles.icon} height={15} alt='Instagram'/>
           <Image src='/3.png' width={15} className={styles.icon} height={15} alt='X'/>
