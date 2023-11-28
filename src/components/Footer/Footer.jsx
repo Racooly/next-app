@@ -12,6 +12,7 @@ function Footer() {
           <Image src='/2.png' width={15} className={styles.icon} height={15} alt='Instagram'/>
           <Image src='/3.png' width={15} className={styles.icon} height={15} alt='X'/>
           <Image src='/4.png' width={15} className={styles.icon} height={15} alt='Youtube'/>
+          {/*nam */}
         </div>
     </div>
   )
